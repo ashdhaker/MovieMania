@@ -1,4 +1,3 @@
-<img width="1440" alt="Screenshot 2023-08-03 at 3 38 47 PM" src="https://github.com/ashdhaker/MovieMania/assets/76883472/a8679e97-9795-4692-8e36-8a6bc581a03c"># MovieMania Project || Movie Recomdation Project
 ###### Movie Recommendation and Information Platform
 
 It is a Web application . Allows users to discover, explore movies and receive personalized recommendations based on their genres, ratings, and descriptions.
