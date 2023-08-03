@@ -1,5 +1,5 @@
-# MovieMania Project || MOVIE RECOMDATION PROJECT
-# Movie Recommendation and Information Platform
+# MovieMania Project || Movie Recomdation Project
+###### Movie Recommendation and Information Platform
 
 It is a Web application . Allows users to discover, explore movies and receive personalized recommendations based on their genres, ratings, and descriptions.
 
