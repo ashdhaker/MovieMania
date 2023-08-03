@@ -1,3 +1,4 @@
+# MovieMania || Movie Recomdation web app
 ###### Movie Recommendation and Information Platform
 
 It is a Web application . Allows users to discover, explore movies and receive personalized recommendations based on their genres, ratings, and descriptions.
