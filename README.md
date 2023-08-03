@@ -37,7 +37,5 @@ and preferences
 
 <img width="1440" alt="Screenshot 2023-08-03 at 3 44 48 PM" src="https://github.com/ashdhaker/MovieMania/assets/76883472/a9e3ce11-2e28-4536-b6a3-b48916ca3acb">
 
-##### Login Page
 
-<img width="1440" alt="Screenshot 2023-08-03 at 3 36 59 PM" src="https://github.com/ashdhaker/MovieMania/assets/76883472/9a4eb6e4-0ade-4a63-9fa4-f7be1fae1db9">
 
