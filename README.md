@@ -1,4 +1,4 @@
-# MovieMania Project || Movie Recomdation Project
+<img width="1440" alt="Screenshot 2023-08-03 at 3 38 47 PM" src="https://github.com/ashdhaker/MovieMania/assets/76883472/a8679e97-9795-4692-8e36-8a6bc581a03c"># MovieMania Project || Movie Recomdation Project
 ###### Movie Recommendation and Information Platform
 
 It is a Web application . Allows users to discover, explore movies and receive personalized recommendations based on their genres, ratings, and descriptions.
@@ -20,13 +20,24 @@ and preferences
 ## App Images
 
 ##### Home Page
-<img src="" alt="Screenshot 1" width="300px">
+
+<img width="1440" alt="Screenshot 2023-08-03 at 3 38 11 PM" src="https://github.com/ashdhaker/MovieMania/assets/76883472/d75be4e2-80fb-427c-be5c-79370d4433ac">
+
 
 ##### TV Shows page
-<img src="" alt="Screenshot 1" width="300px">
+
+<img width="1440" alt="Screenshot 2023-08-03 at 3 38 40 PM" src="https://github.com/ashdhaker/MovieMania/assets/76883472/3904c12e-1b95-4d45-9f66-56dc91d66635">
+
 
 ##### Movies Page
-<img src="" alt="Screenshot 1" width="300px">
+
+<img width="1440" alt="Screenshot 2023-08-03 at 3 38 47 PM" src="https://github.com/ashdhaker/MovieMania/assets/76883472/09b68a50-964f-40e7-a153-03a3ff1c9a40">
 
 ##### My List Page
-<img src="" alt="Screenshot 1" width="300px">
+
+<img width="1440" alt="Screenshot 2023-08-03 at 3 44 48 PM" src="https://github.com/ashdhaker/MovieMania/assets/76883472/a9e3ce11-2e28-4536-b6a3-b48916ca3acb">
+
+##### Login Page
+
+<img width="1440" alt="Screenshot 2023-08-03 at 3 36 59 PM" src="https://github.com/ashdhaker/MovieMania/assets/76883472/9a4eb6e4-0ade-4a63-9fa4-f7be1fae1db9">
+
