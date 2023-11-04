@@ -5,7 +5,7 @@ It is a Web application . Allows users to discover, explore movies and receive p
 
 ## Features
 
-- Users can create accounts to personalize their movie preferences, save favorite movies
+- Users can create accounts to personalize their movie preferences, save favorite movie
 - Users can create and manage their own movie lists, allowing
 them to curate collections of movies based on their interests
 and preferences
